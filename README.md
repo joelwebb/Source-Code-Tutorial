@@ -1,6 +1,6 @@
 # Source-Code-Tutorial
 A home for example code and a quick tutorial for working from the command line in bash, followed by pythonic examination of sequencing files.
-![ThoughtSuite Consulting](tswt.png)
+
 # Description
 This tutorial was developed based off of vince buffalo's bioinformatics data skills cookbook.
 
@@ -27,6 +27,8 @@ Follow the tutorial provided in the word document to help you begin.
 
 # Support
 For assistance, please contact thoughtsuiteconsulting@gmail.com
+
+![ThoughtSuite Consulting](tswt.png)
 
 If there are any additional code-related questions, please feel free to find me on github @ user joelwebb and leave a ticket under my private github repo --- https://github.com/joelwebb
 
