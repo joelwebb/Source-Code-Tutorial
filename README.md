@@ -2,7 +2,7 @@
 A home for example code and a quick tutorial for working from the command line in bash, followed by pythonic examination of sequencing files.
 
 # Description
-This tutorial was developed based off of vince buffalo's bioinformatics data skills cookbook.
+This tutorial was developed based off of vince buffalo's bioinformatics data skills cookbook. A PDF can be found here: http://2.droppdf.com/files/5aTvl/bioinformatics-data-skills.pdf
 
 
 # 3rd Party Packages
