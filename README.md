@@ -8,19 +8,16 @@ This tutorial was developed based off of vince buffalo's bioinformatics data ski
 # 3rd Party Packages
 This program requires the following 3rd party packages:
 * Python 3 --- https://www.python.org/downloads/
-* Clustal  --- http://www.clustal.org/clustal2/#Download
-* Jupyter --- https://jupyter.org/install
-* biopython --- https://biopython.org/wiki/Download
+* pysam --- https://pysam.readthedocs.io/en/latest/installation.html
 
 
 
 # Installation
-All of the required packages are described in the requirements.txt file. To install this program, use the following:
+All of the required packages are included within this directory, installed with pysam or built-in python packages. To follow this tutorial, use the following commands:
 
 	git clone https://github.com/joelwebb/Source-Code-Tutorial
 	cd Source-Code-Tutorial
-	pip install -r requirements.txt
-	python setup.py install
+
 
 # Usage
 Follow the tutorial provided in the word document to help you begin.
